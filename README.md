@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Joseph Jackson, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Joseph Jackson, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭Full stack and digital developer with totally 8 years of experience in developing back-end and front-end
+- 🔭Full stack and digital developer with totally 4 years of experience in developing back-end and front-end
 features for global companies.
 My goal is to be an innovative Software Engineer, specializing in the field of front end and back end.
 I am committed to continuous learning and advancing current software engineering practices.  
